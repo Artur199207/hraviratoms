@@ -51,4 +51,8 @@ span,h1{
         flex-wrap: wrap;
         padding-top: 55px;
     }
+    .left{
+        padding-left: unset;
+        padding-inline: 25px;
+    }
 }
