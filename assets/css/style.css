@@ -46,6 +46,10 @@ body{
 span,h1{
     text-align: center;
 }
+.content{
+    max-width: 350px;
+    width: 100%;
+}
 @media screen and (max-width:585px) {
     .container{
         flex-wrap: wrap;
